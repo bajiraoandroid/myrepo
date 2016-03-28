@@ -3,12 +3,12 @@
       <server>
           <id>sonatype-nexus-snapshots</id>
           <username>tarun_ag</username>
-          <password>tarun25</password>
+          <password>sonatype</password>
       </server>
       <server>
           <id>nexus-releases</id>
           <username>tarun_ag</username>
-          <password>tarun25</password>
+          <password>sonatype</password>
       </server>
   </servers>
   <profiles>
